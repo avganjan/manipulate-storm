@@ -4,3 +4,6 @@
 .container div{
     border: 2px solid #5a965a;
 }
+.sidebar{
+    display: flex;
+}
