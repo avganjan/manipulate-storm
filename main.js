@@ -1,3 +1,5 @@
 const some = ()=>{
-    return 
+    return console.log()
 }
+
+some("Devs", "and", "Designers")
