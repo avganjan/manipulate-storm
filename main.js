@@ -1,3 +1,5 @@
 const some = ()=>{
-    return 
+    return console.log("Hi!")
 }
+
+some()
