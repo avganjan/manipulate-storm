@@ -11,4 +11,5 @@ const some = (pram1, pram2, pram3)=>{
 // I am in storm's storm/1 and examine the fetch mode
 // The last try in about in storm/1 branch
 // The very last try in storm in storm/1 branch........
+// Go bed :) (in about - storm/1)
 some("Devs", "and", "Designers")
